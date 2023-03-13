@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="happy_birthday_aashu">Happy Birthday Aashu!</string>
+    <string name="from_ashutosh">From Ashutosh!</string>
+    <string name="todo">TODO</string>
+    <string name="you_are_21_now">You are 21 now.</string>
+</resources>
